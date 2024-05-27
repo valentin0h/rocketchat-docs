@@ -13,10 +13,10 @@ When E2E is enabled on your workspace, users can create encrypted rooms and send
 
 ## Getting started
 
-To use E2E Encryption, your Rocket.Chat workspace administrator must [turn on the End to End Encryption](../../workspace-administration/settings/e2e-encryption.md) feature.
+To use E2E Encryption, your Rocket.Chat workspace administrator must [turn on the End to End Encryption](../../omnichannel/workspace-administration/settings/e2e-encryption.md) feature.
 
-{% content-ref url="../../workspace-administration/settings/e2e-encryption.md" %}
-[e2e-encryption.md](../../workspace-administration/settings/e2e-encryption.md)
+{% content-ref url="../../omnichannel/workspace-administration/settings/e2e-encryption.md" %}
+[e2e-encryption.md](../../omnichannel/workspace-administration/settings/e2e-encryption.md)
 {% endcontent-ref %}
 
 ### Set E2E Encryption Password
@@ -39,7 +39,7 @@ To change your Encryption password,
 
 ## Starting an End to End Conversation
 
-To create an End to End Encrypted room,&#x20;
+To create an End to End Encrypted room,
 
 * Follow this guide [create-a-new-channel.md](../rooms/channels/create-a-new-channel.md "mention") to create a room.
 * Enable **Encrypted.**
@@ -47,7 +47,7 @@ To create an End to End Encrypted room,&#x20;
 ## Convert an existing room to use End to End encryption
 
 {% hint style="info" %}
-&#x20;It must be a [private room](../rooms/channels/#private-channels).
+It must be a [private room](../rooms/channels/#private-channels).
 {% endhint %}
 
 To convert an existing room to an encrypted room,

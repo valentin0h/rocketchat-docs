@@ -16,7 +16,7 @@ The <img src="../../.gitbook/assets/search-icon.png" alt="" data-size="line">**S
 
 ### Directory
 
-The <img src="../../.gitbook/assets/directory-icon.png" alt="" data-size="line">**Directory icon** offers a convenient way to access the workspace's directory and search for [channels](rooms/channels/), [users](../workspace-administration/users/), and [teams](rooms/teams/) within the workspace.
+The <img src="../../.gitbook/assets/directory-icon.png" alt="" data-size="line">**Directory icon** offers a convenient way to access the workspace's directory and search for [channels](rooms/channels/), [users](../omnichannel/workspace-administration/users/), and [teams](rooms/teams/) within the workspace.
 
 ### Display
 
@@ -24,8 +24,8 @@ The <img src="../../.gitbook/assets/display-icon.png" alt="" data-size="line">**
 
 ### Create New
 
-Click the <img src="../../.gitbook/assets/create-new-icon.png" alt="" data-size="line">**Create New icon** to create a new [room ](rooms/)in your workspace.&#x20;
+Click the <img src="../../.gitbook/assets/create-new-icon.png" alt="" data-size="line">**Create New icon** to create a new [room ](rooms/)in your workspace.
 
 ### Administration
 
-Click the **kebab icon** to access the administration panel. The options displayed for a user vary depending on the permission assigned to them. The **Administration** tab is available for workspace administrators to manage workspace and [omnichannel](../omnichannel/) settings. The **Apps** tab provides the option to manage [apps](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/) in your workspace. The **Audit** tab is available for auditors in the workspace to[ audit messages](../user-management/message-auditor/) and review the [audit log history](../user-management/message-auditor/audit-logs.md).&#x20;
+Click the **kebab icon** to access the administration panel. The options displayed for a user vary depending on the permission assigned to them. The **Administration** tab is available for workspace administrators to manage workspace and [omnichannel](../omnichannel/) settings. The **Apps** tab provides the option to manage [apps](../../extend-rocket.chat-capabilities/rocket.chat-marketplace) in your workspace. The **Audit** tab is available for auditors in the workspace to[ audit messages](../user-management/message-auditor/) and review the [audit log history](../user-management/message-auditor/audit-logs.md).

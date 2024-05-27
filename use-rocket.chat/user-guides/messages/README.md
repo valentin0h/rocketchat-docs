@@ -3,7 +3,7 @@
 This page explains the ins and outs of messaging in Rocket.Chat.
 
 {% hint style="info" %}
-Make sure to go through the [message settings](../../workspace-administration/settings/message.md) to be able to access all these features mentioned below!
+Make sure to go through the [message settings](../../omnichannel/workspace-administration/settings/message.md) to be able to access all these features mentioned below!
 {% endhint %}
 
 ## Compose messages
@@ -60,7 +60,7 @@ Preview the video you recorded by pressing **Ok**. A window appears where you ca
 
 ## Interacting with Google Drive
 
-_Note:_ Google Drive features available only if the server's admin has enabled Google Drive access and provided the correct API keys. For instructions to obtain these keys can see the [Administrator guides](broken-reference).
+_Note:_ Google Drive features available only if the server's admin has enabled Google Drive access and provided the correct API keys. For instructions to obtain these keys can see the [Administrator guides](broken-reference/).
 
 ### From Google Drive to Rocket.Chat
 

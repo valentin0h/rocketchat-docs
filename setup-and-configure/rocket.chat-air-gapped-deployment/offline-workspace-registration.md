@@ -13,20 +13,20 @@ After deploying your air-gapped workspace successfully, navigate to your workspa
 
 * Go to your [Rocket.Chat Cloud](https://cloud.rocket.chat/) account. Navigate to **Workspaces** and click **Register self-managed**. Click the **Continue Offline** button and paste the **token** displayed earlier from your workspace setup wizard.
 * Click **Continue.** Another **code** is generated on Rocket.Chat Cloud to finalize your workspace registration. Copy that code and click **Continue.**
-* Go back to the **Register Offline** screen on your workspace **Setup Wizard** where the initial token was generated, agree to the [**Terms**](broken-reference) and [**Privacy Policy**](broken-reference)**,** then click **Next.**
+* Go back to the **Register Offline** screen on your workspace **Setup Wizard** where the initial token was generated, agree to the [**Terms**](broken-reference/) and [**Privacy Policy**](broken-reference/)**,** then click **Next.**
 * Paste the code generated from [Rocket.Chat Cloud](https://cloud.rocket.chat/) and click **Complete Registration**.
 
-Once you've completed these steps, your workspace will be set up and ready to use. You can access it by logging in with your admin credentials. You can always update  your setup information in **Workspace Administration** [setup-wizard.md](../../use-rocket.chat/workspace-administration/settings/setup-wizard.md "mention").
+Once you've completed these steps, your workspace will be set up and ready to use. You can access it by logging in with your admin credentials. You can always update your setup information in **Workspace Administration** [setup-wizard.md](../../use-rocket.chat/omnichannel/workspace-administration/settings/setup-wizard.md "mention").
 
 {% hint style="info" %}
-For  workspaces that accessible through the internet, kindly visit [setup-wizard.md](../../use-rocket.chat/workspace-administration/settings/setup-wizard.md "mention") to set up your workspace.
+For workspaces that accessible through the internet, kindly visit [setup-wizard.md](../../use-rocket.chat/omnichannel/workspace-administration/settings/setup-wizard.md "mention") to set up your workspace.
 {% endhint %}
 
-### &#x20;![](<../../.gitbook/assets/Deprecated (1).png>) Register Air-gapped workspaces on versions below 6.5
+### ![](<../../.gitbook/assets/Deprecated (1).png>) Register Air-gapped workspaces on versions below 6.5
 
 To register a workspace on a version below 6.5 without internet access,
 
-* Navigate to **Administration** > **Workspace** > **Settings** > **Setup Wizard** > **Cloud Info** and enable **Cloud Service Privacy Terms Agreement.**  Enabling it means you agree with the [Terms](https://rocket.chat/terms) & [Privacy Policy](https://rocket.chat/privacy).
+* Navigate to **Administration** > **Workspace** > **Settings** > **Setup Wizard** > **Cloud Info** and enable **Cloud Service Privacy Terms Agreement.** Enabling it means you agree with the [Terms](https://rocket.chat/terms) & [Privacy Policy](https://rocket.chat/privacy).
 * Navigate to **Administration** > **Workspace** > **Registration** and click **Register Offline**.
 * Copy the code snippet that is displayed on the pop-up box.
 * Create an account or login into your [Rocket.Chat cloud portal](https://cloud.rocket.chat).

@@ -1,6 +1,6 @@
 # Room Roles
 
-Rocket.Chat rooms have different roles that users can assign to control actions and features within a particular [room](./), including [Teams](teams/), [Channels](channels/), and [Discussions](discussions/). These roles are associated with permissions in the [room scope](../../workspace-administration/permissions/#scope-of-roles).
+Rocket.Chat rooms have different roles that users can assign to control actions and features within a particular [room](./), including [Teams](teams/), [Channels](channels/), and [Discussions](discussions/). These roles are associated with permissions in the [room scope](../../omnichannel/workspace-administration/permissions/#scope-of-roles).
 
 ### Available Room Roles
 
@@ -11,7 +11,7 @@ By default, there are three major room roles available in a Rocket.Chat workspac
 * **Moderator**: This role is designed to help keep the room organized and on-topic. Moderators can delete messages, kick users out, and pin important messages to the top of the room.
 
 {% hint style="success" %}
-Creating custom roles is exclusively available to workspaces subscribed to the [Enterprise plan](../../../readme/our-plans.md#enterprise-plan).  For more details, kindly visit [#creating-custom-roles](../../workspace-administration/permissions/#creating-custom-roles "mention").
+Creating custom roles is exclusively available to workspaces subscribed to the [Enterprise plan](../../../readme/our-plans.md#enterprise-plan). For more details, kindly visit [#creating-custom-roles](../../omnichannel/workspace-administration/permissions/#creating-custom-roles "mention").
 {% endhint %}
 
 ### Assigning Room Roles
@@ -40,11 +40,11 @@ Room roles can be revoked from a user in a room if no longer needed.
 To remove a role:
 
 * Open the desired room.
-* &#x20;Click on the **Members** icon on the top right action bar. This shows a list of users in that room.
+* Click on the **Members** icon on the top right action bar. This shows a list of users in that room.
 * Search or select the user having the existing role.
 * Click the **kebab menu** on the right against the user. A dropdown is seen.
 * From the dropdown, click **Remove as \<role>** to remove the role previously assigned to the user.
 
 {% hint style="info" %}
-See the official documentation to learn more about Rocket.Chat [Roles ](../../../setup-and-configure/roles-in-rocket.chat.md)and [Permissions](../../workspace-administration/permissions/).
+See the official documentation to learn more about Rocket.Chat [Roles ](../../../setup-and-configure/roles-in-rocket.chat.md)and [Permissions](../../omnichannel/workspace-administration/permissions/).
 {% endhint %}

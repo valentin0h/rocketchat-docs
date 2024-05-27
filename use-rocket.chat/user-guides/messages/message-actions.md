@@ -15,12 +15,12 @@ Click <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="li
 To edit a message, click on the **Edit** option from the message actions menu. You can also place your cursor in the message box and press the **Up arrow** to edit your last message.
 
 {% hint style="info" %}
-The workspace administrator can assign [permissions](../../workspace-administration/permissions/) for users to edit messages from other users. By default, only administrators, moderators, and channel owners can edit other users' messages.
+The workspace administrator can assign [permissions](../../omnichannel/workspace-administration/permissions/) for users to edit messages from other users. By default, only administrators, moderators, and channel owners can edit other users' messages.
 {% endhint %}
 
 ### Draft messages
 
-Rocket.Chat saves all message drafts so you can return to edit later.&#x20;
+Rocket.Chat saves all message drafts so you can return to edit later.
 
 ### Delete messages
 
@@ -37,7 +37,7 @@ To view starred messages, click the **kebab** menu on the room navbar and select
 Pin messages in a room to make them easily accessible to all users in that room. To pin a message, select the **Pin Message** option from the message actions menu. Remove pinned messages by selecting **Remove Pin**.
 
 {% hint style="info" %}
-The workspace administrator can assign [permissions](../../workspace-administration/permissions/) for  users to pin messages in a room. By default, only administrators, moderators, and owners of the channel can pin messages.
+The workspace administrator can assign [permissions](../../omnichannel/workspace-administration/permissions/) for users to pin messages in a room. By default, only administrators, moderators, and owners of the channel can pin messages.
 {% endhint %}
 
 ### Reactions
@@ -62,23 +62,23 @@ Use **Reply in Thread** to start a new [thread ](../rooms/threads/)under the ori
 
 To report offensive messages, click **Report** from the message actions menu.
 
-To report a user, click the user icon and see the full profile of the user. A **User Info** pane opens on the right-hand side. Click the kebab icon and click **Report**.&#x20;
+To report a user, click the user icon and see the full profile of the user. A **User Info** pane opens on the right-hand side. Click the kebab icon and click **Report**.
 
-Workspace admins, moderators, and users with permissions can access the [**Moderation**](../../workspace-administration/moderation.md) tab to view the details of the reported messages and users.
+Workspace admins, moderators, and users with permissions can access the [**Moderation**](../../omnichannel/workspace-administration/moderation.md) tab to view the details of the reported messages and users.
 
 ### Message Info
 
 <figure><img src="../../../.gitbook/assets/Premium.svg" alt=""><figcaption></figcaption></figure>
 
-The message info shows a list of users that have read the message with a timestamp. The message info option is displayed when the  [**read receipts** setting](../../workspace-administration/settings/message.md#read-receipts) is enabled in the workspace. Click the **Info** option from the message actions menu to view the message info.
+The message info shows a list of users that have read the message with a timestamp. The message info option is displayed when the [**read receipts** setting](../../omnichannel/workspace-administration/settings/message.md#read-receipts) is enabled in the workspace. Click the **Info** option from the message actions menu to view the message info.
 
 {% hint style="info" %}
-The message **Info** feature is available to workspaces subscribed to any of Rocket.Chat's [premium plans](../../../readme/our-plans.md).&#x20;
+The message **Info** feature is available to workspaces subscribed to any of Rocket.Chat's [premium plans](../../../readme/our-plans.md).
 {% endhint %}
 
-### Message Forwarding/Share message &#x20;
+### Message Forwarding/Share message
 
-Click <img src="../../../.gitbook/assets/image (1) (3).png" alt="" data-size="line">to forward messages to another channel, thread, or discussion.  You can forward messages directly to any user, channel, thread, or discussion you have access to. You can select a message and share it with unlimited recipients. This streamlines information sharing across various channels with large audiences, ensuring everyone receives the same message simultaneously. The benefits include saving time, improved communication flow, increased collaboration, and overall convenience.
+Click <img src="../../../.gitbook/assets/image (1) (3).png" alt="" data-size="line">to forward messages to another channel, thread, or discussion. You can forward messages directly to any user, channel, thread, or discussion you have access to. You can select a message and share it with unlimited recipients. This streamlines information sharing across various channels with large audiences, ensuring everyone receives the same message simultaneously. The benefits include saving time, improved communication flow, increased collaboration, and overall convenience.
 
 {% hint style="info" %}
 Message sharing is available from version 6.2 and above.

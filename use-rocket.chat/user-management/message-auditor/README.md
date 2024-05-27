@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/2021-06-10_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (34).jpg" alt=""><figcaption></figcaption></figure>
 
-Rocket.Chat allows authorized users to audit messages and read conversations in a workspace. The user must have an `auditor` [role](../../../setup-and-configure/roles-in-rocket.chat.md) and `Can Audit` [permission](../../workspace-administration/permissions/) to access the **Audit Messages Panel**. As an organization, you may also want to inspect the [omnichannel](../../omnichannel/) conversations and watch out for [agents ](../../omnichannel/agents.md)who use improper language with customers.&#x20;
+Rocket.Chat allows authorized users to audit messages and read conversations in a workspace. The user must have an `auditor` [role](../../../setup-and-configure/roles-in-rocket.chat.md) and `Can Audit` [permission](../../omnichannel/workspace-administration/permissions/) to access the **Audit Messages Panel**. As an organization, you may also want to inspect the [omnichannel](../../omnichannel/) conversations and watch out for [agents ](../../omnichannel/agents.md)who use improper language with customers.
 
 An auditor can do the following:
 
@@ -63,7 +63,7 @@ To search for a specific Omnichannel conversation:
 
 ## Assign auditing permissions
 
-The `Auditor` [permission](../../workspace-administration/permissions/) grants users access to the **Audit Messages** feature. As a workspace administrator, you can assign this permission to any [role ](../../workspace-administration/permissions/#roles)you want to give audit access to.
+The `Auditor` [permission](../../omnichannel/workspace-administration/permissions/) grants users access to the **Audit Messages** feature. As a workspace administrator, you can assign this permission to any [role ](../../omnichannel/workspace-administration/permissions/#roles)you want to give audit access to.
 
 To assign message audit permissions:
 

@@ -2,18 +2,18 @@
 
 ## View Discussion Members
 
-Discussion members must have either one of these roles: Owner, Leader, Moderator, or User. Each discussion member's [permission](../../../workspace-administration/permissions/) members will depend on their role. The discussion owner can manage all the members and assign any of these roles to them.
+Discussion members must have either one of these roles: Owner, Leader, Moderator, or User. Each discussion member's [permission](../../../omnichannel/workspace-administration/permissions/) members will depend on their role. The discussion owner can manage all the members and assign any of these roles to them.
 
-To see the list of members in a Discussion,&#x20;
+To see the list of members in a Discussion,
 
 * Click the **Members** icon at the top-right menu of the discussion screen. At first, the list only shows currently active users. Select **All** from the dropdown option beside the search bar to see all users.
 * Select a user to view their **User Info**. The user preview screen shows their name, username, any role tags they might have, and their current timezone.
-* You can send a direct message or call the user from the user info.&#x20;
+* You can send a direct message or call the user from the user info.
 * Click the **three dots** icon to see other user actions like ignore, mute user, or set roles ( as moderator, leader, or owner).
 
 ## Add Members to Discussion
 
-You can add members to a discussion in two ways:&#x20;
+You can add members to a discussion in two ways:
 
 * Manually Adding Users
 * Send an Invite Link
@@ -24,11 +24,11 @@ You can use **the Add Users** option to add users who are already in your worksp
 
 To add a new user,
 
-* At the bottom of the **Discussion** members tab, click **Add.**&#x20;
-* Search and select the users, then click **Add users.**&#x20;
+* At the bottom of the **Discussion** members tab, click **Add.**
+* Search and select the users, then click **Add users.**
 
 {% hint style="warning" %}
-Rocket.Chat notifies you if the user is already an existing discussion member**.**
+Rocket.Chat notifies you if the user is already an existing discussion member\*\*.\*\*
 {% endhint %}
 
 ### Send an Invite Link
@@ -37,7 +37,7 @@ At the bottom of the Discussion members tab, click **Invite Link** and copy the 
 
 #### Edit Invite Link
 
-Depending on how long you want an invite link to last, you can edit the invite link periodically. &#x20;
+Depending on how long you want an invite link to last, you can edit the invite link periodically.
 
 To generate a new link,
 
@@ -51,8 +51,8 @@ This link will ask the invitee to sign up if they are outside your Rocket.Chat w
 #### Delete Invite Link
 
 \
-To delete an invite link, see [Delete an Invite Record via Admin Panel](../../../workspace-administration/invites.md#delete-a-record). This feature comes in handy when you have an invite link with an **Expiration date: Never**. To avoid abuse, you can revoke it by deleting the invite record.
+To delete an invite link, see [Delete an Invite Record via Admin Panel](../../../omnichannel/workspace-administration/invites.md#delete-a-record). This feature comes in handy when you have an invite link with an **Expiration date: Never**. To avoid abuse, you can revoke it by deleting the invite record.
 
 {% hint style="warning" %}
-You must have the **Create Invite Link** [permission](../../../workspace-administration/permissions/) granted for your role to use the [permission](../../../workspace-administration/permissions/). It is turned **ON** for the Admin, Owner, and Moderator roles. However, you can always ask the workspace administrator to update it to suit your needs.
+You must have the **Create Invite Link** [permission](../../../omnichannel/workspace-administration/permissions/) granted for your role to use the [permission](../../../omnichannel/workspace-administration/permissions/). It is turned **ON** for the Admin, Owner, and Moderator roles. However, you can always ask the workspace administrator to update it to suit your needs.
 {% endhint %}

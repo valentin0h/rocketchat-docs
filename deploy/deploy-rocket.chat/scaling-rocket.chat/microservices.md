@@ -18,7 +18,7 @@ To learn more about NAT, see [the official documentation](https://docs.nats.io/n
 * **stream-hub** (`rocketchat/stream-hub-service)`: A message broker that provides a scalable and fault-tolerant message stream for Rocket.Chat. It receives real-time changes or data from MongoDB and sends it to all the services. The services can act on that change at their discretion.
 * **accounts** (`rocketchat/accounts-service`): The accounts component is responsible for managing user accounts and authentication -
 * **ddp-streamer** (`rocketchat/ddp-streamer-service`): It deals with all web socket connections. All web socket connections must be forwarded directly to this service. It uses the Distributed Data **Protocol** (DDP).
-* **presence** (`rocketchat/presence-service`): The presence component is responsible for managing [user presence status](../../../use-rocket.chat/workspace-administration/user-status.md).
+* **presence** (`rocketchat/presence-service`): The presence component is responsible for managing [user presence status](../../../use-rocket.chat/omnichannel/workspace-administration/user-status.md).
 *   **The central Rocket.Chat monolith** (`rocketchat/rocket.chat)`: Each component is disabled from this monolith, so each "service" can take over its respective functionalities.
 
     \`\`

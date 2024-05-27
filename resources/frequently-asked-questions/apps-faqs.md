@@ -8,7 +8,7 @@ Each of those options has its strengths and weaknesses.
 
 **Changing the source** code is the most powerful way of extending Rocket.Chat, but not the simplest - you need to learn the code base, understand the code pattern and rules, submit a PR, and follow up on any changes requested to get it merged.
 
-However, [Integrations ](../../use-rocket.chat/workspace-administration/integrations/)allow you to write simple scripts that will be executed when a message is sent or received in a channel. They’re quick to learn and write, but their scope is limited.
+However, [Integrations ](../../use-rocket.chat/omnichannel/workspace-administration/integrations/)allow you to write simple scripts that will be executed when a message is sent or received in a channel. They’re quick to learn and write, but their scope is limited.
 
 [Apps](https://github.com/RocketChat/docs/blob/master/extend-rocket.chat-capabilities/rocket.chat-marketplace) are the middle ground. They are much more powerful than integrations, allowing you to interact with the UI and execute custom routines on several triggers. They're more complex than learning the code base and can be distributed to our community via the Marketplace.
 
@@ -18,7 +18,7 @@ However, [Integrations ](../../use-rocket.chat/workspace-administration/integrat
 
 <summary>Do I need to host my app somewhere to make it available to Rocket.Chat?</summary>
 
-Not at all! [Rocket.Chat](http://rocket.chat/) Apps are packaged and deployed to a workspace, and the system will take care of hooking the App up. Apps can be installed [manually](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/#installing-a-private-app) or via the [Marketplace](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/).
+Not at all! [Rocket.Chat](http://rocket.chat/) Apps are packaged and deployed to a workspace, and the system will take care of hooking the App up. Apps can be installed [manually](../../extend-rocket.chat-capabilities/rocket.chat-marketplace#installing-a-private-app) or via the [Marketplace](../../extend-rocket.chat-capabilities/rocket.chat-marketplace).
 
 </details>
 

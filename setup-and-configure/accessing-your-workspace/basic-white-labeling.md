@@ -3,7 +3,7 @@
 A standout feature of Rocket.Chat is its white-labeling capability, which allows you to tailor your workspace to reflect your organization's brand identity. This enhances the user experience and reinforces your brand identity among your team members. However, you must have [admin](../roles-in-rocket.chat.md) role privileges to leverage these white-labeling capabilities.
 
 {% hint style="info" %}
-* You can manage the UI changes in the [layout.md](../../use-rocket.chat/workspace-administration/settings/layout.md "mention") settings of your workspace.
+* You can manage the UI changes in the [layout.md](../../use-rocket.chat/omnichannel/workspace-administration/settings/layout.md "mention") settings of your workspace.
 * For in-depth workspace customization, see [White-Labeling](https://developer.rocket.chat/customize-and-embed/white-labelling).
 {% endhint %}
 
@@ -11,13 +11,13 @@ A standout feature of Rocket.Chat is its white-labeling capability, which allows
 
 You can manage the user interface changes through your workspace's Layout settings. For comprehensive customization options, refer to our detailed White-Labeling guide. Here are some of the key customization features:
 
-[**White-labeling homepage**](../../use-rocket.chat/workspace-administration/settings/layout.md#home-page-content): This allows you to customize how your Rocket.Chat workspace homepage looks.
+[**White-labeling homepage**](../../use-rocket.chat/omnichannel/workspace-administration/settings/layout.md#home-page-content): This allows you to customize how your Rocket.Chat workspace homepage looks.
 
-[**Customize colors**](../../use-rocket.chat/workspace-administration/settings/layout.md#colors): Customize colors to match your theme colors.
+[**Customize colors**](../../use-rocket.chat/omnichannel/workspace-administration/settings/layout.md#colors): Customize colors to match your theme colors.
 
-[**Custom logo and assets**](../../use-rocket.chat/workspace-administration/settings/assets.md): The guide explains how to specify custom assets for your workspace.
+[**Custom logo and assets**](../../use-rocket.chat/omnichannel/workspace-administration/settings/assets.md): The guide explains how to specify custom assets for your workspace.
 
-[**White-label login screen**](../../use-rocket.chat/workspace-administration/settings/layout.md#login): Customize the look of your Rocket.Chat workspace login screen.
+[**White-label login screen**](../../use-rocket.chat/omnichannel/workspace-administration/settings/layout.md#login): Customize the look of your Rocket.Chat workspace login screen.
 
 ### Additional Branding Elements
 

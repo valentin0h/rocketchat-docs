@@ -21,11 +21,11 @@ By configuring this setting correctly, you allow access to the Live Chat widget 
 * Copy the code snippet and paste it above the last `</body>` tag on your website.
 * The **Live Chat** widget appears at the bottom right of your webpage.
 
-Learn more about [Live Chat settings](../workspace-administration/settings/omnichannel-admins-guide/#live-chat) and [Live Chat appearance](livechat-widget-appearance.md).
+Learn more about [Live Chat settings](workspace-administration/settings/omnichannel-admins-guide/#live-chat) and [Live Chat appearance](livechat-widget-appearance.md).
 
 ## Deploying Live Chat Widget to a different domain
 
-To run the Live Chat Widget on a domain different from your Rocket.Chat server, &#x20;
+To run the Live Chat Widget on a domain different from your Rocket.Chat server,
 
 * After installing the widget, navigate to **Administration** > **Workspace** > **Settings** > **General.**
 * Disable **Restrict access inside any iframe** on your Rocket.Chat server.
@@ -48,8 +48,6 @@ An error like this is related to your browser settings for third-party cookies. 
 
 <summary>Trying to access localhost:3000</summary>
 
-
-
 Review the **Site URL** setting under **Administration** > **Workspace** > **Settings** > **General** and the server name setting on your reverse proxy (if you have one) to guarantee they are all aligned and correspond to the same URL used in your Live Chat Widget installed script.
 
 </details>
@@ -58,8 +56,8 @@ Review the **Site URL** setting under **Administration** > **Workspace** > **Set
 
 <summary>Live Chat doesn't show OR Content Security Policy directive violation</summary>
 
-![](<../../.gitbook/assets/image (4).png>)
+<img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
 
-Add the domain where the iframe is been used in the list of allowed domains under  **Administration** > **Workspace** > **Settings** > **Omnichannel** > **Livechat** > **Livechat Allowed Domain**
+Add the domain where the iframe is been used in the list of allowed domains under **Administration** > **Workspace** > **Settings** > **Omnichannel** > **Livechat** > **Livechat Allowed Domain**
 
 </details>

@@ -2,7 +2,7 @@
 description: Learn how to use Google Translate feature with your Rocket.Chat workspace
 ---
 
-# Google Translate Integration&#x20;
+# Google Translate Integration
 
 In the era of cloud computing, the integration of cloud services into communication platforms is essential. Rocket.Chat has adopted this trend, particularly by incorporating Google Cloud features. This document will primarily focus on how Rocket.Chat leverages the Google Auto Translate feature, a significant aspect of Google Cloud services.
 
@@ -25,7 +25,7 @@ In the era of cloud computing, the integration of cloud services into communicat
 * Select **Google** as the **Service Provider**.
 
 {% hint style="info" %}
-Only users with `auto-translate` [permission](../../use-rocket.chat/workspace-administration/permissions/) can use this feature.
+Only users with `auto-translate` [permission](../../use-rocket.chat/omnichannel/workspace-administration/permissions/) can use this feature.
 {% endhint %}
 
 **Enabling Auto-Translate on a Channel**: Auto-Translate can be enabled on a per-channel basis. When enabled, any messages sent in a language that Google Translate supports will be translated into the user's chosen language. The translated messages are only visible to the user who enabled Auto Translation, while the original, untranslated messages are displayed for users who have not enabled this feature.

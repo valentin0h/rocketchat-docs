@@ -9,7 +9,7 @@ To get help with Trello in your workspace,
 After configuring the Trello App, link your Trello boards for monitoring in any Rocket.Chat channel of your choice.
 
 {% hint style="warning" %}
-You can only link Trello boards to [channels](../../../../use-rocket.chat/user-guides/rooms/channels/). Other [rooms](../../../../use-rocket.chat/workspace-administration/rooms.md) are not supported.
+You can only link Trello boards to [channels](../../../../use-rocket.chat/user-guides/rooms/channels/). Other [rooms](../../../../use-rocket.chat/omnichannel/workspace-administration/rooms.md) are not supported.
 {% endhint %}
 
 To link your Trello board to a channel,

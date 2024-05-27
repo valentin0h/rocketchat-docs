@@ -27,24 +27,24 @@ As a team owner, you can create new channels for the team.
 To create a new Team Channel:
 
 * Click the **Team Channels** icon at the top-right side of the team home page.
-* Select **Create New** at the bottom of the Team Channels page**.**
-* Name the channel, add a topic, set it as private/public, and complete other basic channel settings.&#x20;
+* Select **Create New** at the bottom of the Team Channels page\*\*.\*\*
+* Name the channel, add a topic, set it as private/public, and complete other basic channel settings.
 * Finally, add members from the drop-down and click **Create**.
 
 ## Add an existing channel to a team
 
-To add an existing channel to a team, you must be the channel owner or have [appropriate permissions](../../../workspace-administration/permissions/) in the team to add an existing channel.
+To add an existing channel to a team, you must be the channel owner or have [appropriate permissions](../../../omnichannel/workspace-administration/permissions/) in the team to add an existing channel.
 
 When adding a channel to a team, the team owner gains rights over the channel (e.g., The team owner can delete the channel).
 
-* Click the **Team Channels** icon at the top-right side of the team home page.&#x20;
+* Click the **Team Channels** icon at the top-right side of the team home page.
 * Click **Add Existing** at the bottom of the Team Channels page.
 * Search and select the channels you'll like to add to the team.
 * Click **Add**.
 
 ## Team Auto-Join Channels
 
-Teams can have Auto-join channels—channels where team members are added automatically. It reduces extra work with handling users and the channels they must belong to. It’s also handy for onboarding teams with many different channels.&#x20;
+Teams can have Auto-join channels—channels where team members are added automatically. It reduces extra work with handling users and the channels they must belong to. It’s also handy for onboarding teams with many different channels.
 
 For instance, you can use Auto-join to quickly include new members joining the company to specific onboarding channels. You could set Auto-join to automatically include team members in company-related channels, such as channels meant to share updates and company news. You can mark a channel **Auto-join** for members to join them automatically once they join a team.
 

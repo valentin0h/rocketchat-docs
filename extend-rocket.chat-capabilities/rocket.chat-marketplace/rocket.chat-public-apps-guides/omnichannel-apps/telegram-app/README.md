@@ -9,7 +9,7 @@ description: Omnichannel Integration between Rocket.Chat and Telegram.
 With the Telegram app on Rocket.Chat, your customers can send and receive Omnichannel messages from your workspace through a Telegram bot.
 
 {% hint style="warning" %}
-To use your Telegram bot in a [room](../../../../../use-rocket.chat/workspace-administration/rooms.md), see [simple-telegram-bot.md](../../../../../use-rocket.chat/workspace-administration/integrations/simple-telegram-bot.md "mention").
+To use your Telegram bot in a [room](../../../../../use-rocket.chat/omnichannel/workspace-administration/rooms.md), see [simple-telegram-bot.md](../../../../../use-rocket.chat/omnichannel/workspace-administration/integrations/simple-telegram-bot.md "mention").
 {% endhint %}
 
 ## Install Telegram App
@@ -29,9 +29,9 @@ To install the Telegram App,
 To generate a Telegram bot token,
 
 * Launch your Telegram app. Open a new chat, search and select **"BotFather".**
-* Click **Start**. Type “**/newbot**” in the chat and **Send**.&#x20;
+* Click **Start**. Type “**/newbot**” in the chat and **Send**.
 * Select a name and username for your bot.
-* Once the username is accepted, a congratulatory message displays all the bot's details, including the API token.&#x20;
+* Once the username is accepted, a congratulatory message displays all the bot's details, including the API token.
 * Copy the bot API token.
 
 ## Configure the Telegram App
@@ -43,11 +43,11 @@ To configure the Telegram App,
   * **Bot Token:** The bot token you copied when [generating the telegram bot](./#generate-your-telegram-bot-token).
   * **Default Department**. Only the agents of this department can serve Telegram conversations.
   * **Service Unavailable Message:** The message sent to your customer when no agents are available online.
-  * **Welcome Message:**  The message sent to customers when they send their first message.
+  * **Welcome Message:** The message sent to customers when they send their first message.
   * **Conversation Finished Message:** The message sent to your customer when an agent closes the conversation.
   * **Agents Display Name:** You can display the agent's name or username.
   * **File Upload Enabled:** You can enable/disable file sharing.
-  * **Accepted Media Types:**  Select the type of files that can be shared between the Agents and your Twitter Contacts.
+  * **Accepted Media Types:** Select the type of files that can be shared between the Agents and your Twitter Contacts.
 * Click **Save Changes.**
 
 {% hint style="info" %}

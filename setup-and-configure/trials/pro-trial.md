@@ -1,6 +1,6 @@
 # Pro Trial
 
-Available from Rocket.Chat version 6.5 or higher, the Pro Plan is tailored for growing organizations seeking advanced features and support to enhance their collaboration capabilities. The plan offers a robust platform with larger user capacity, increased [monthly active contacts](../../use-rocket.chat/workspace-administration/users/monthly-active-contacts-macs.md) compared to [Starter plan](../../readme/our-plans.md#starter-plan), along with a range of premium features. It's an ideal fit for businesses in expansion, balancing advanced functionality with strong support to facilitate effective collaboration.
+Available from Rocket.Chat version 6.5 or higher, the Pro Plan is tailored for growing organizations seeking advanced features and support to enhance their collaboration capabilities. The plan offers a robust platform with larger user capacity, increased [monthly active contacts](../../use-rocket.chat/omnichannel/workspace-administration/users/monthly-active-contacts-macs.md) compared to [Starter plan](../../readme/our-plans.md#starter-plan), along with a range of premium features. It's an ideal fit for businesses in expansion, balancing advanced functionality with strong support to facilitate effective collaboration.
 
 For workspaces currently on the Starter plan, exceeding certain predefined limits triggers a 30-day Pro trial. The following diagram shows the events that will trigger the Pro trial:
 

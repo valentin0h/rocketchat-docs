@@ -35,7 +35,7 @@ A **Login with Keycloak** button is displayed on your workspace's login page. Us
 
 ## Mapping non-federated Keycloak user roles to Rocket.Chat roles
 
-Client-specific roles of a Keycloak-managed user can be mapped to Rocket.Chat roles. This does not work for federated users (LDAP-managed users). For this example, to map the `admin` and `livechat-manager` [role](../../workspace-administration/permissions/#roles), add the required roles to the client.
+Client-specific roles of a Keycloak-managed user can be mapped to Rocket.Chat roles. This does not work for federated users (LDAP-managed users). For this example, to map the `admin` and `livechat-manager` [role](../../omnichannel/workspace-administration/permissions/#roles), add the required roles to the client.
 
 To create a role in Keycloak, follow these steps:
 

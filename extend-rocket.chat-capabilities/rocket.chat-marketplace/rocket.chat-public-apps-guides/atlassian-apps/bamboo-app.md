@@ -2,7 +2,7 @@
 description: Atlassian Bamboo Integration
 ---
 
-# Bamboo Integration
+# Bamboo App
 
 <figure><img src="../../../../.gitbook/assets/Premium.svg" alt=""><figcaption></figcaption></figure>
 
@@ -22,12 +22,12 @@ To install the Bamboo Integration App,
 ## Configure Bamboo Integration App
 
 {% hint style="info" %}
-Confirm that you have the  [Rocket.Chat Notifications for Bamboo](https://marketplace.atlassian.com/apps/1220022/rocket-chat-notifications-for-bamboo?tab=overview\&hosting=server) add-on installed on your Bamboo server.
+Confirm that you have the [Rocket.Chat Notifications for Bamboo](https://marketplace.atlassian.com/apps/1220022/rocket-chat-notifications-for-bamboo?tab=overview\&hosting=server) add-on installed on your Bamboo server.
 {% endhint %}
 
 To configure the Bamboo Integration app,
 
-* Navigate to a [channel](../../../../use-rocket.chat/user-guides/rooms/channels/) or private [room ](../../../../use-rocket.chat/workspace-administration/rooms.md)and run the slash command `/bamboo install`.&#x20;
+* Navigate to a [channel](../../../../use-rocket.chat/user-guides/rooms/channels/) or private [room ](../../../../use-rocket.chat/omnichannel/workspace-administration/rooms.md)and run the slash command `/bamboo install`.
 * You will receive an ephemeral message with instructions on how to configure your Bamboo, as follows:
   * On your Bamboo, install the [Rocket.Chat Notifications for Bamboo](https://marketplace.atlassian.com/apps/1220022/rocket-chat-notifications-for-bamboo) add-on.
   * Add notification on a Build Plan or Deployment Environment.

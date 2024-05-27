@@ -16,7 +16,7 @@ THESE TERMS ARE EFFECTIVE AS OF THE DATE YOU FIRST CLICK “I AGREE” (OR A SIM
 
 PLEASE READ THE CUSTOMER TERMS CAREFULLY BEFORE USING OUR SERVICES, AND NOTE THAT THESE CUSTOMER TERMS INCLUDE AUTO-RENEWAL PROVISIONS AND MAY LIMIT YOUR RIGHTS AND LIABILITIES.
 
-1. ### APPLICABLE TERMS
+1. #### APPLICABLE TERMS
 
 ### 1.1 Applicable Terms.
 
@@ -34,7 +34,7 @@ The [Terms of Use](additional-terms/terms-of-use.md), [Acceptable Use Policy](ad
 
 We update the Customer Terms and Additional Terms from time to time. If you have an active Rocket.Chat subscription we will let you know when we update the terms via in-app notification (through the Workspace Admin account) or by email. Continued use of the Services after any updates become effective constitute Customer’s agreement to be bound by the revised Agreement. Thus, if Customer does not accept a change to any terms, Customer should stop using or accessing the Services.
 
-2. ### SERVICES PROVIDED
+2. #### SERVICES PROVIDED
 
 ### 2.1 Service Provided.
 
@@ -56,7 +56,7 @@ Rocket.Chat offers two deployment options for its services: Self-Hosted or Cloud
 
 Rocket.Chat may offer certain Services to Customers at no charge, including free accounts, trial use, and Beta Versions as defined below (collectively, “No-Charge Products”). Customer use of No-Charge Services is subject to any additional terms that we specify and is only permitted during the Subscription Term we designate (or if not designated, until terminated in accordance with this Agreement). Except as otherwise set forth in these Customer Terms, the terms and conditions of these Customer Terms fully apply to No-Charge Services. We may modify or terminate your right to use No-Charge Services at any time and for any reason at our sole discretion, without liability to you. You understand that any pre-release and Beta Services and any pre-release and Beta features that we make available (collectively, “Beta Versions”) are still under development, may be inoperable or incomplete, and will likely contain more errors and bugs than generally available Services. We make no promises that any Beta Versions will ever be made generally available. In some circumstances, we may charge a fee in order to allow you to access Beta Versions, but the Beta Versions will still remain subject to this Section. All information regarding the characteristics, features, or performance of any No-Charge Products (including Beta Versions) constitutes our Confidential Information. To the maximum extent permitted by applicable law, and notwithstanding anything to the contrary in this Agreement, Rocket.Chat disclaims all representations, warranties, obligations or liabilities with respect to No-Charge Products, including any Support Services, warranty, and indemnity obligations. NOTWITHSTANDING ANYTHING ELSE IN THE AGREEMENT, OUR MAXIMUM AGGREGATE LIABILITY TO CUSTOMER OR ANY THIRD PARTY RELATING TO ANY NO-CHARGE PRODUCTS WILL BE US$100.\\
 
-3. ### CUSTOMER OBLIGATIONS
+3. #### CUSTOMER OBLIGATIONS
 
 ### 3.1 Use Restrictions.
 
@@ -86,7 +86,7 @@ Customer may have the option to 'white label' Rocket.Chat’s Services by rebran
 
 Customer must not upload or otherwise make available to Rocket.Chat any Customer Data that: (a) constitutes an infringement, misappropriation or violation of any intellectual property rights, proprietary rights, rights of publicity, rights of privacy or any other legal rights protecting data, information or intangible property throughout the world, including, without limitation, any copyrights, trademarks, service marks, trade secrets, patent rights, moral rights, sui generis rights in databases or contract rights; (b) violates this Agreement; (c) is unlawful or violates any applicable laws, rules, promotes illegal activities or contributes to the creation of weapons, illegal materials, or is otherwise illegal in any way; (d) contains software viruses or any other computer code, files or programs designed to interrupt, destroy, limit the functionality of any computer software or hardware or telecommunications equipment; (e) interferes with or disrupts the Service or servers or networks connected to the Service;; (f) is harmful to minors in any way; (h) constitutes unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; or (g) causes Rocket.Chat to violate any applicable law, rule or regulation, including those regarding the export of technical data. Customer will use commercially reasonable efforts to detect, address, and (when appropriate) remove or otherwise remediate Customer Data that is in violation of Customer’s terms of use, consistent with Customer’s customary trust and safety practices and policies. \\
 
-4. ### SUPPORT SERVICES
+4. #### SUPPORT SERVICES
 
 ### 4.1 General Support Services
 
@@ -108,7 +108,7 @@ Rocket.Chat will provide Professional Services to Customers in accordance with a
 
 RocketChat regularly updates its Services. We only support the Rocket.Chat versions that are within their support period, as stated in our[ Support Policy.](https://docs.rocket.chat/getting-support) Specifically for our Cloud Hosting, we automatically upgrade Rocket.Chat servers that stay within the supported version range and do not provide versions that are beyond their End of Life term. As a result, workspaces running on unauthorized versions beyond the Support Window will be subject to restriction or cancellation of services as explained here [https://docs.rocket.chat/resources/rocket.chats-support-structure/enterprise-support-and-version-durability](https://docs.rocket.chat/resources/rocket.chats-support-structure/enterprise-support-and-version-durability).
 
-5. ### DATA; PROTECTION OF YOUR DATA.
+5. #### DATA; PROTECTION OF YOUR DATA.
 
 ### 5.1 Privacy
 
@@ -130,7 +130,7 @@ Customer is solely responsible for ensuring that all of its End Users meet the l
 
 We may be required to disclose Customer Data to comply with legal obligations, subpoenas, or court orders. However, we will make commercially reasonable efforts to notify Customer if legally permitted. For more information on how we handle law enforcement requests for access to Customer Data, please refer to [Guidelines for Law Enforcement.](https://docs.rocket.chat/rocket.chat-legal/guidelines-for-law-enforcement)
 
-6. ### PROPRIETARY RIGHTS.
+6. #### PROPRIETARY RIGHTS.
 
 ### 6.1 Ownership of Rocket.Chat Intellectual Property.
 
@@ -144,7 +144,7 @@ Rocket.Chat is hereby granted a royalty-free, fully-paid, worldwide, transferabl
 
 Rocket.Chat does not obtain ownership in Customer Data that is submitted to our Services or Software. For the purposes of this agreement, unless explicitly agreed otherwise between the Customer and the End User, the Customer acknowledges that when an End User submits content or information to the Services, such as messages or files, all such content and information is generally owned by the Customer. The Customer also has the option to incorporate terms within its own Terms of Service, thereby granting the Customer the right to use End User data.
 
-7. ### FEES AND PAYMENT; TAXES.
+7. #### FEES AND PAYMENT; TAXES.
 
 ### 7.1 Fees and Payment.
 
@@ -178,7 +178,7 @@ If Customer acquires Services through a Partner, all payment-related terms will 
 
 Customer acknowledges that the Rocket.Chat Services referenced in an Ordering Documentare being purchased separately from any of Rocket.Chat other products or services. Payment obligations for any products or Services are not contingent on the purchase or use of any of other products (and for clarity, any purchases of Rocket.Chat Services are separate and not contingent on each other, even if listed on the same Ordering Document). Customer agrees that purchases are not contingent on the delivery of any future functionality or features (including future availability of any Products or Services beyond the current Term) or dependent on any oral or written public comments we make regarding future functionality or features.
 
-8. ### TERM; TERMINATION.
+8. #### TERM; TERMINATION.
 
 ### 8.1 Term.
 
@@ -196,7 +196,7 @@ Where Rocket.Chat relies on third party providers to provide or support a Servic
 
 Termination or expiration shall not relieve Customer of the obligation to pay any fees or other amounts accrued or payable to Rocket.Chat, including fees for the remainder of the then-current Term. Except for Customer’s termination due to Rocket.Chat’s material, uncured breach, Customer must promptly remit all due and payable amounts for the remaining Term, without limiting Rocket.Chat’s other rights and remedies available under this Agreement or at law. Upon termination or expiration, Customer must cease all use of the Services, Software, and Documentation and destroy or return (upon request by Rocket.Chat) all copies of the Services, Software, and Documentation. Any obligations that have accrued prior to termination will survive termination of this Agreement.
 
-9. ### REPRESENTATIONS AND WARRANTIES; COMPLIANCE
+9. #### REPRESENTATIONS AND WARRANTIES; COMPLIANCE
 
 ### 9.1 Representations and Warranties
 
@@ -391,7 +391,7 @@ Self-Hosted Terms
 
 With respect to Customer’s purchase and/or use of the Self-Hosted Software, the following additional terms shall apply.
 
-1. ### CUSTOMER DATA
+1. #### CUSTOMER DATA
 
 ### **1.1 Customer Data Management**
 
@@ -411,7 +411,7 @@ Each party shall comply with its respective obligations under applicable data pr
 
 With respect to Customer’s purchase and/or use of the Services on a Cloud Hosting structure, the following additional terms shall apply.
 
-1. ### CUSTOMER DATA
+1. #### CUSTOMER DATA
 
 ### 1.1 Customer Data.
 
@@ -445,7 +445,7 @@ Customer represents and warrants that
 
 Besides our express obligations under the Agreement, we assume no responsibility or liability for Customer Data. Customer is solely responsible for its Customer Data and the consequences of submitting and using it with the Cloud Services.
 
-2. ### SERVICE REQUIREMENTS
+2. #### SERVICE REQUIREMENTS
 
 ### 2.1 Environment requirements.
 

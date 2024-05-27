@@ -35,11 +35,11 @@ The homepage of your workspace has a **navigation menu**, **toolbar,** and **mai
 
 The navigation menu at the top displays your profile avatar, name, and workspace name. Additionally, it includes these five action items:
 
-* **Edit Status**: It is used to set a [custom status](../workspace-administration/user-status.md).
-* **Chats:** It displays the [rooms](../workspace-administration/rooms.md) you belong t**o**, enabling you to select any and start a conversation.
+* **Edit Status**: It is used to set a [custom status](../omnichannel/workspace-administration/user-status.md).
+* **Chats:** It displays the [rooms](../omnichannel/workspace-administration/rooms.md) you belong t**o**, enabling you to select any and start a conversation.
 * **Profile:** It takes you to the screen for managing your [profile](../rocket.chat-cloud/manage-your-cloud-account/profile.md).
 * **Display:** It takes you to the display settings screen to choose between expanded or condensed messages, the sort order, and the grouping order of your rooms.
-* [**Settings**](../workspace-administration/settings/)**:** It takes you to the app settings screen, such as language, default browser, and theme.
+* [**Settings**](../omnichannel/workspace-administration/settings/)**:** It takes you to the app settings screen, such as language, default browser, and theme.
 
 ### Toolbar
 

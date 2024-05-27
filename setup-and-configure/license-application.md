@@ -12,7 +12,7 @@ The guide provides detailed instructions on how to apply and sync your workspace
 Before you proceed, [contact sales](https://www.rocket.chat/sales-contact) to get a valid license for the [plan](../readme/our-plans.md) you want to apply on your workspace.
 {% endhint %}
 
-## I have a SaaS Workspace&#x20;
+## I have a SaaS Workspace
 
 You have a SaaS workspace and you've purchased a license for it.
 
@@ -22,13 +22,13 @@ To apply the license,
 * Navigate to **Administration > Subscription** and click the **Sync license update** button. This fetches the License for your workspace from Rocket.Chat Cloud.
 
 {% hint style="warning" %}
-* For workspaces below `6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below `6.0`, navigate to   **Administration** > **Connectivity Services**.
+* For workspaces below `6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below `6.0`, navigate to **Administration** > **Connectivity Services**.
 * Then, click **Sync**.
 {% endhint %}
 
 Your license has now been applied to your workspace, and it is ready to use. Navigate to **Administration > Subscription** to confirm and view your current workspace plan.
 
-## I have a Self Managed Registered Workspace&#x20;
+## I have a Self Managed Registered Workspace
 
 You have a Self Managed Workspace that you've registered and gotten a license provisioned.
 
@@ -38,7 +38,7 @@ To apply the license,
 * Navigate to **Administration > Subscription** and click the **Sync license update** button. This fetches the License for your workspace from Rocket.Chat Cloud.
 
 {% hint style="warning" %}
-* For workspaces below`6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below`6.0`, navigate to   **Administration** > **Connectivity Services**.
+* For workspaces below`6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below`6.0`, navigate to **Administration** > **Connectivity Services**.
 * Then, click **Sync**.
 {% endhint %}
 
@@ -53,17 +53,17 @@ To apply the license,
 * Copy the Registration token provided to you.
 * For workspaces on version `6.0` or newer
   * Navigate to **Administration** > **Workspace** > **Registration**
-  * Click **Register** and then click **Use Token**&#x20;
+  * Click **Register** and then click **Use Token**
   * Paste the token provided
-* For workspaces below version `6.0`&#x20;
+* For workspaces below version `6.0`
   * Navigate to **Administration** > **Connectivity Services**
   * In the Token field provided paste the token
   * Click **Register**
 * Click on **Sync** to sync the workspace to Rocket.Chat cloud.
 
-Your workspace is now Registered and your License applied to your workspace.  Navigate to **Administration > Workspace** to confirm and view your current workspace plan.
+Your workspace is now Registered and your License applied to your workspace. Navigate to **Administration > Workspace** to confirm and view your current workspace plan.
 
-## I have a Self Managed Air-gapped Workspace&#x20;
+## I have a Self Managed Air-gapped Workspace
 
 You have an air-gapped workspace and you've gotten the license token for the workspace.
 
@@ -79,7 +79,7 @@ To apply the license token to air-gapped workspaces on versions below 6.5,
 
 Your license is now applied to your workspace. Navigate to **Administration > Workspace** to confirm and view your current workspace plan.
 
-If your workspace is not registered and you have the registration token,&#x20;
+If your workspace is not registered and you have the registration token,
 
 * Navigate to **Administration** > **Workspace** > **Registration.**
 * Click **Register** and then click **Use Token.**
@@ -89,11 +89,11 @@ Your workspace is now Registered and your License applied to your workspace.
 
 ## I do not have a SaaS Workspace
 
-If you purchased a license for a SaaS Workspace you will have a workspace provisioned for you. &#x20;
+If you purchased a license for a SaaS Workspace you will have a workspace provisioned for you.
 
 To start using it,
 
-* Visit the workspace URL and set it up following the [setup-wizard.md](../use-rocket.chat/workspace-administration/settings/setup-wizard.md "mention")
+* Visit the workspace URL and set it up following the [setup-wizard.md](../use-rocket.chat/omnichannel/workspace-administration/settings/setup-wizard.md "mention")
 
 Your workspace is now ready to use.
 
@@ -103,12 +103,12 @@ You purchased a license for a Self Managed workspace but don't have a workspace.
 
 To apply the license,
 
-* [Deploy a new workspace](../deploy/deploy-rocket.chat/)
+* [Deploy a new workspace](../deploy/deploy-rocket.chat)
 * Visit your workspace URL and complete the [rocket.chat-setup-wizard.md](accessing-your-workspace/rocket.chat-setup-wizard.md "mention").
 * Navigate to **Administration > Subscription** and click the **Sync license update** button. This fetches the License for your workspace from Rocket.Chat Cloud.
 
 {% hint style="warning" %}
-* For workspaces below `6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below `6.0`, navigate to   **Administration** > **Connectivity Services**.
+* For workspaces below `6.5`, navigate to **Administration** > **Workspace** > **Registration** > **Manage.** For workspaces below `6.0`, navigate to **Administration** > **Connectivity Services**.
 * Then, click **Sync**.
 {% endhint %}
 
@@ -120,7 +120,7 @@ You don't have an air-gapped workspace yet and you've purchased a license token 
 
 To apply the license,
 
-* [Deploy a new air-gapped workspace](rocket.chat-air-gapped-deployment/)&#x20;
+* [Deploy a new air-gapped workspace](rocket.chat-air-gapped-deployment)
 
 {% hint style="info" %}
 To apply license to air-gapped workspaces on version 6.5 and above, kindly refer to [offline-license.md](rocket.chat-air-gapped-deployment/offline-license.md "mention").
@@ -134,7 +134,7 @@ To apply the license token to air-gapped workspaces on versions below 6.5,
 
 Your license is now applied to your workspace. Navigate to **Administration > Workspace** to confirm and view your current workspace plan.
 
-If your workspace is not registered and you have the registration token,&#x20;
+If your workspace is not registered and you have the registration token,
 
 * Navigate to **Administration** > **Workspace** > **Registration.**
 * Click **Register** and then click **Use Token.**
@@ -144,7 +144,7 @@ Your workspace is now registered and your license applied to your workspace.
 
 ## Cancel Workspace Subscription
 
-To cancel your workspace subscription and revert back to  [Community](../readme/our-plans.md#community), simply navigate to **Administration > Subscription** and click the **Cancel Subscription** button.
+To cancel your workspace subscription and revert back to [Community](../readme/our-plans.md#community), simply navigate to **Administration > Subscription** and click the **Cancel Subscription** button.
 
 {% hint style="info" %}
 You can only cancel your subscription when your workspace is subscribed to the [Starter plan](../readme/our-plans.md#starter-plan) or any of our [Trials](trials/).

@@ -2,12 +2,12 @@
 
 Omnichannel Current Chats contains all the existing conversations that have not been deleted.
 
-To see the current chats,&#x20;
+To see the current chats,
 
 * Navigate to **Administration > Omnichannel > Current Chats**
 
 {% hint style="info" %}
-You are required to have **View Omnichannel Contact Center** [permission ](../workspace-administration/permissions/)to access this section. Contact your workspace administrator to grant/revoke this permission.
+You are required to have **View Omnichannel Contact Center** [permission ](workspace-administration/permissions/)to access this section. Contact your workspace administrator to grant/revoke this permission.
 {% endhint %}
 
 ## Omnichannel Current Chat Filters

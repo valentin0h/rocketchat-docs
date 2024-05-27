@@ -1,6 +1,6 @@
 # LDAP
 
-**Lightweight Directory Access Protocol (LDAP)** is a protocol that enables easy access to and management of user information. It's commonly used in organizations where there is a need for centralized information, authentication, and authorization. Rocket.Chat supports LDAP integration, allowing seamless connection with your organization's Active Directory or Identity Management System, ensuring secure transmission of sensitive information.&#x20;
+**Lightweight Directory Access Protocol (LDAP)** is a protocol that enables easy access to and management of user information. It's commonly used in organizations where there is a need for centralized information, authentication, and authorization. Rocket.Chat supports LDAP integration, allowing seamless connection with your organization's Active Directory or Identity Management System, ensuring secure transmission of sensitive information.
 
 This section guides you through the configuration details and examples to help you set up your own LDAP integration for user authentication and authorization.
 
@@ -14,18 +14,14 @@ This section guides you through the configuration details and examples to help y
     * **Auto-Logout**: Enhances security by automatically logging out users from Rocket.Chat when certain conditions in the LDAP directory are met.
     * **Advanced User Data Sync**: Provides a comprehensive synchronization of user data, ensuring that all relevant attributes and settings are consistently mirrored in Rocket.Chat.
 
-
-
     {% hint style="info" %}
     For an overview of the LDAP features available across our various [plans](../../../readme/our-plans.md), refer to[authentication-across-plans.md](../authentication-across-plans.md "mention").
     {% endhint %}
 
-
-
 ## Configure LDAP authentication
 
 * Go to **Administration** > **Workspace** > **Settings** > **LDAP**
-* Enable **LDAP** and [add configurations](configure-ldap-connection.md) to connect with your **LDAP** server.&#x20;
+* Enable **LDAP** and [add configurations](configure-ldap-connection.md) to connect with your **LDAP** server.
 
 ### LDAP Quick Actions
 
@@ -40,10 +36,7 @@ These actions are exclusively available to workspaces subscribed to any of Rocke
 {% endhint %}
 
 {% hint style="info" %}
-If you do not receive an alert confirming these actions, always consult the log under [reports.md](../../workspace-administration/reports.md "mention") to check for their success or to identify any errors.&#x20;
+If you do not receive an alert confirming these actions, always consult the log under [reports.md](../../omnichannel/workspace-administration/reports.md "mention") to check for their success or to identify any errors.
 {% endhint %}
 
 Integrating LDAP with Rocket.Chat not only simplifies user management but also strengthens security and ensures data consistency across your digital ecosystem. As we move to the next sections, we will delve deeper into the configuration process, guiding you through the steps to seamlessly integrate LDAP with your Rocket.Chat workspace.
-
-
-

@@ -45,7 +45,7 @@ In your Rocket.Chat workspace, on the **Mod Perspective App Info** page, go to t
 Click **Save changes**. You have now successfully installed and configured the app to help maintain a good environment! Next, learn more about how you can use the app's features to review the flagged messages and take further action.
 
 {% hint style="info" %}
-### Note on Private Room Access
+#### Note on Private Room Access
 
 Due to privacy considerations, the app will not report messages or operate in private rooms by default. If you want to enable content moderation in private rooms, follow these steps:
 

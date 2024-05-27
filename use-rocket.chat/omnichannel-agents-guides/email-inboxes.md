@@ -4,13 +4,13 @@ description: Learn to use email inboxes feature as an omnichannel agent
 
 # Email Inboxes
 
-In your Rocket.Chat workspace, you can receive emails from contacts on an email address configured as an [email inbox](../workspace-administration/email-inboxes.md).
+In your Rocket.Chat workspace, you can receive emails from contacts on an email address configured as an [email inbox](../omnichannel/workspace-administration/email-inboxes.md).
 
 {% hint style="info" %}
-To use this feature, your workspace administrator must enable [Omnichannel ](../omnichannel/)and assign [agents](../omnichannel/agents.md) and [managers](../omnichannel/managers.md). Kindly contact your administrator to set up [email inboxes ](../workspace-administration/email-inboxes.md)on your workspace.
+To use this feature, your workspace administrator must enable [Omnichannel ](../omnichannel/)and assign [agents](../omnichannel/agents.md) and [managers](../omnichannel/managers.md). Kindly contact your administrator to set up [email inboxes ](../omnichannel/workspace-administration/email-inboxes.md)on your workspace.
 {% endhint %}
 
-Once an [email inbox ](../workspace-administration/email-inboxes.md)is set up successfully, any new email received is shown in your Rocket.Chat workspace. You can view and reply to these emails from your workspace. When you reply, it appears like any other email in your contact’s inbox.&#x20;
+Once an [email inbox ](../omnichannel/workspace-administration/email-inboxes.md)is set up successfully, any new email received is shown in your Rocket.Chat workspace. You can view and reply to these emails from your workspace. When you reply, it appears like any other email in your contact’s inbox.
 
 When you log in to your workspace as an agent and [set your status to **Available**](./#omnichannel-agent-availability)**,** to handle new conversations:
 
