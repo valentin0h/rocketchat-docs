@@ -1,6 +1,8 @@
 # Rocket.Chat
 
-In a world where [collaboration](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-1) is the [backbone](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-5) of productivity, Rocket.Chat stands out as a secure and customizable open-source platform for all your communication needs. Whether you're a small team or a large enterprise, Rocket.Chat ensures you have full control over your data and conversations with robust privacy and seamless integration across devices and platforms.
+In a world where [collaboration](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-1) is the [backbone](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-5) of productivity, \
+In a world where [collaboration](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-1) is the [backbone](https://gitbook-x-dev-valentino.firebaseapp.com/s/3aXMrM6QF7K49H2ZJcYE/page-5) of productivity, \
+Rocket.Chat stands out as a secure and customizable open-source platform for all your communication needs. Whether you're a small team or a large enterprise, Rocket.Chat ensures you have full control over your data and conversations with robust privacy and seamless integration across devices and platforms.
 
 {% hint style="info" %}
 As of December 15, 2023, Rocket.Chat has ceased support for connections from cloud services and official mobile/desktop apps to workspaces running legacy versions outside our support window. Users on unsupported legacy servers are advised to upgrade to the latest Rocket.Chat version to ensure continued access to cloud, mobile, and desktop applications. **Each Rocket.Chat version is supported for six months post-release.**
